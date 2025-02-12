@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b71d69278323de102bb7c5b5eeaad398" label="needitReadTest" max_length="40" name="x_58872_needit_needitreadtest" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Field1" max_length="40" name="field1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field2" max_length="40" name="field2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field4" max_length="40" name="field4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field5" max_length="40" name="field5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field3" max_length="40" name="field3" type="string"/>
+    </element>
+</database>
